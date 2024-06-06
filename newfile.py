@@ -3,8 +3,7 @@ from telebot import types
 import threading 
 import requests
 from bs4 import BeautifulSoup
-import random
-from FBlevi import Start
+ 
 Token = '6880617647:AAHvLmMfpQFMrt63YDiWoy7-2xk1wG1UQ5I'# - token
 
 psw = []
